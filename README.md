@@ -1,4 +1,4 @@
-# dalgurum-claude-team
+# Claude AI Agent Set
 
 Claude Code에서 사용하는 범용 개발 워크플로우 — Skills, 에이전트 팀, 서브에이전트 모음.
 
